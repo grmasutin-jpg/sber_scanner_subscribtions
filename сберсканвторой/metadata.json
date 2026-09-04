@@ -1,0 +1,8 @@
+{
+  "name": "Remix Сбер Сканер Подписок",
+  "description": "AI-аналитика и поиск забытых регулярных подписок по банковским выпискам с помощью искусственного интеллекта",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

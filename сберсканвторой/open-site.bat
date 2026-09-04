@@ -1,0 +1,2 @@
+@echo off
+start "" "https://ais-dev-4zlkagqgxqck3sjzjprrlk-301990120859.europe-west2.run.app"
